@@ -1,3 +1,5 @@
+# Educational Purposes!
+
 # 📚 Library Management API (NestJS + In-Memory CRUD)
 
 This project is a simple **Library Management System API** built with **NestJS**.  
@@ -11,3 +13,4 @@ It is designed for learning and demonstration purposes.
 - Modular NestJS structure
 - **In-memory storage** (data resets when the server restarts)
 - No need for PostgreSQL or any other database
+
