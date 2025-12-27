@@ -36,7 +36,7 @@ Built with **Next.js 16**, **Express.js**, and **MongoDB**.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/jxpyter/library-management-system.git
 cd library-management-system
 ```
 
@@ -50,7 +50,7 @@ npm install
 Create a `.env` file in the `server` directory:
 ```env
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/library-sys
+MONGO_URI=<YOUR-DB-URI>
 ```
 
 **Seed Database (Optional):**
